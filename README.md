@@ -16,3 +16,9 @@ I've used
 6. Wires, proper connectors & some soldering.
 
 Will update soon with schematics and PCB.
+
+I've used Atmel Studio 7.0 for the code (way smaller binary than Arduino and less fuss).
+
+Compiler says:
+Program Memory Usage 	:	674 bytes   65.8 % Full
+Data Memory Usage 		:	19 bytes   29.7 % Full
